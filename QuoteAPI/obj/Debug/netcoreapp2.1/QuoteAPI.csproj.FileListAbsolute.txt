@@ -1,0 +1,16 @@
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\QuoteAPI.deps.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\QuoteAPI.runtimeconfig.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\QuoteAPI.runtimeconfig.dev.json
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\QuoteAPI.dll
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\bin\Debug\netcoreapp2.1\QuoteAPI.pdb
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.csprojAssemblyReference.cache
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.RazorAssemblyInfo.cache
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.RazorAssemblyInfo.cs
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.AssemblyInfoInputs.cache
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.AssemblyInfo.cs
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.RazorTargetAssemblyInfo.cache
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.dll
+C:\Data\02.Portfolio\03.Net core\QuoteAPI\QuoteAPI\obj\Debug\netcoreapp2.1\QuoteAPI.pdb
